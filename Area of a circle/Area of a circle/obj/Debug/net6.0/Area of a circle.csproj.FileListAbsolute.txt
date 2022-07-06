@@ -1,0 +1,15 @@
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.csproj.AssemblyReference.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.AssemblyInfoInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.AssemblyInfo.cs
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.csproj.CoreCompileInputs.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\bin\Debug\net6.0\Area of a circle.exe
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\bin\Debug\net6.0\Area of a circle.deps.json
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\bin\Debug\net6.0\Area of a circle.runtimeconfig.json
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\bin\Debug\net6.0\Area of a circle.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\bin\Debug\net6.0\Area of a circle.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\refint\Area of a circle.dll
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.pdb
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\Area of a circle.genruntimeconfig.cache
+C:\Users\mnich\OneDrive\Desktop\Repos\OperatorExercise\Area of a circle\Area of a circle\obj\Debug\net6.0\ref\Area of a circle.dll
